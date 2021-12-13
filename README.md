@@ -27,5 +27,6 @@
 <h3 align="center"><b>✏️ Learning ✏️</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a> &nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white"/></a> &nbsp</p>
 
