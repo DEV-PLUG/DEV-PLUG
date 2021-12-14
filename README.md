@@ -1,3 +1,4 @@
+</br>
 <h3 align="center"><b>Hi there 👋</b></h3>
 <h4 align="center">I am a middle school student fullstack developer PLUG!</h4>
 </br>
@@ -32,8 +33,8 @@
 
 </br>
 
-<!-- <h3 align="center"><b>📞 Contect 📞</b></h3>
+<h3 align="center"><b>📞 Contect 📞</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Discord%20PLUG#3767-%2320232a?style=for-the-badge&logo=discord&logoColor=%2361DAFB"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/PLUG%233767-%2320232a?style=for-the-badge&logo=discord&logoColor=white"/></a> &nbsp
 
 </br>
