@@ -1,6 +1,8 @@
 </br>
 <h3 align="center"><b>Hi there 👋</b></h3>
-<h4 align="center">I am a middle school student fullstack developer PLUG!</h4>
+<h4 align="center">I am a middle school student fullstack developer PLUG!<br/><br/>
+I like simple designs and designs using 3D objects.<br/>
+Also, I am very interested in user information protection and accessibility.</h4>
 </br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
