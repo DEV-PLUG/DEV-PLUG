@@ -26,7 +26,6 @@ Also, I am very interested in user information protection and accessibility.</h4
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Webstorm-181717?style=for-the-badge&logo=webstorm&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&nbsp"/></a> &nbsp
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1572B6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a> &nbsp</p>
 </br>
@@ -34,7 +33,9 @@ Also, I am very interested in user information protection and accessibility.</h4
 <h3 align="center"><b>✏️ Learning ✏️</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-%2320232a?style=for-the-badge&logo=next.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a> &nbsp
+<img src="https://img.shields.io/badge/Tailwind-%230ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white"/></a> &nbsp</p>
 
 </br>
 
