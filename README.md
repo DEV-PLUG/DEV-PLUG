@@ -38,7 +38,7 @@ Also, I am very interested in user information protection and accessibility.</h4
 
 </br>
 
-<h3 align="center"><b>📞 Contect 📞</b></h3>
+<h3 align="center"><b>📞 Contact 📞</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/PLUG%233767-%2320232a?style=for-the-badge&logo=discord&logoColor=white"/></a> &nbsp</p>
 
