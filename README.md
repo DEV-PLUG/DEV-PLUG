@@ -21,8 +21,7 @@ Also, I am very interested in user information protection and accessibility.</h4
 <img src="https://img.shields.io/badge/NestJs-D9073F?style=for-the-badge&logo=nestjs&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Expo-%2320232a?style=for-the-badge&logo=expo&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tailwind-%230ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Prisma-0B3140?style=for-the-badge&logo=prisma&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"> &nbsp</p>
+<img src="https://img.shields.io/badge/Prisma-0B3140?style=for-the-badge&logo=prisma&logoColor=white"/></a> &nbsp</p>
 </br>
 
 <h3 align="center"><b>🪛 Tools 🪛</b></h3>
